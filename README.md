@@ -13,11 +13,12 @@ Este projeto consiste em uma aplicação web simples que simula uma agenda de co
 1. Clone o repositório para o seu computador.
 2. Utilize um servidor local como o **XAMPP** ou **WAMP**.
 3. Coloque os arquivos do projeto na pasta `htdocs` do XAMPP.
-4. Abra o navegador e acesse `localhost/nome-do-projeto`.
+4. Abra o navegador e acesse `localhost/AgendaDeContatos`.
 
 ## Tecnologias Usadas
 
 - HTML
 - CSS
 - JavaScript
+- PHP
 - Arquivo de texto para armazenamento de dados
